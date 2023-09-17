@@ -51,12 +51,13 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- JavaScript
 
 <!-- **Note: These are just examples. Delete this note and replace the list above with your own choices** -->
 
 ### What I learned
 
-Learned a lot about media queries, gradients.
+Learned a lot about media queries, gradients, populating content with JavaScript.
 
 <!-- ```html
 <h1>Some HTML code I'm proud of</h1>
