@@ -2,7 +2,7 @@ let subject = document.querySelectorAll('.subject');
 let title = document.querySelectorAll('.subject .title p');
 let icon = document.querySelectorAll('.subject .title img');
 let marks = document.querySelectorAll('.subject .marks .obtained');
-let totalAvg = document.querySelector('.results-card .circle h1');
+let totalAvg = document.querySelector('.results-card .circle .obtained-total');
 
 
 function populate() {
